@@ -1,6 +1,15 @@
 # Hijacked-Airplane-Game
 Unity AI pursuit prototype with dynamic fear-based behavior system:
+###
+{
 
+The build of the game is in the Build folder, Download all parts, extract, Run Hijacked Airplane V1.7.exe, and enjoy.
+
+ خروجی بازی در پوشه ی Build قرار گرفته، همه ی پارت هارو دانلود کنید، از حالت فشرده خارج کنید، و فایل Hijacked Airplane V1.7.exe را اجرا کنید.
+
+}
+
+###
 EN Description:
 This project is a Unity gameplay prototype focused on designing an AI-driven pursuit system built around a dynamic Fear Level mechanic.
 
@@ -57,6 +66,7 @@ Win/Loss state management
 
 Visuals are intentionally simple (Low-Poly), as the main focus is gameplay systems and behavioral logic.
 
+###
 FA Description:
 این پروژه یک پروتوتایپ گیم‌پلی در یونیتی است که تمرکز آن بر طراحی مکانیک‌های تعقیب هوایی و سیستم رفتاری مبتنی بر «Fear Level» می‌باشد.
 
